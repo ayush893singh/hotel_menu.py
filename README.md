@@ -19,7 +19,7 @@ A simple Python program that allows users to order food items and calculates the
 3. Run:
    python restaurant.py
 
-## Output
+## Example Output
 ```
 -----Welcome to Restaurant-----
 pizza: Rs:99
