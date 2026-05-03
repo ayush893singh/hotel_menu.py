@@ -37,7 +37,7 @@ Do you want to add another item? (yes/no) :- yes
 Enter the name of second item : cold drink
 Item cold drink has been added to order
 
-The total amount of items to pay is : 219 Rupees
+Your total amount of items to pay is : 219 Rupees
 -----Thank You-----
 ```
 ## 👨‍💻 Author
