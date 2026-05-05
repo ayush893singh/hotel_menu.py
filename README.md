@@ -40,7 +40,7 @@ Item cold drink has been added to order
 Your total amount of items to pay is : 219 Rupees
 -----Thank You-----
 ```
-## 👨‍💻 Author
+## Author
 
 Ayush Singh
 GitHub: https://github.com/ayush893singh
