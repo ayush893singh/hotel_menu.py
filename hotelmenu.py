@@ -27,4 +27,4 @@ if Another_Order == "yes":
         print(f"Orderd item {item_2} is not avaialable!")
 
 print(f"\nThe total amount of items to pay is : {Order_Total} Rupees")
-print("-----Thank You-----")
+print("------Thank You------")
